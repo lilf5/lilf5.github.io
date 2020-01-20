@@ -8,27 +8,10 @@ Rutgers university-new Brunswick, M.S. in mathematics, 2016-2018
 Sun Yat-Sen university, B.S. in mathematics, 2012-2016
 
 ## Research
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+My research interest includes image processing, machine learning and numerical PDEs. Here is my [ResearchGate](https://www.researchgate.net/profile/Lingfeng_Li5) page and [Google Scholar](https://scholar.google.com.hk/citations?user=tcP1TWEAAAAJ&hl=en) page.
 
 ## Academic acativity
+- Bulleted
+- List
+1. N
+2. List
