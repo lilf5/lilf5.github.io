@@ -1,7 +1,13 @@
-## Academic Experience
+## Education
+Southern university of science and technology, joint study, 2020-2022
 
+Hong Kong baptist university, Ph.D. in mathematics, 2018-2022
 
-## Publications
+Rutgers university-new Brunswick, M.S. in mathematics, 2016-2018
+
+Sun Yat-Sen university, B.S. in mathematics, 2012-2016
+
+## Research
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
