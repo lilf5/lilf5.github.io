@@ -18,11 +18,7 @@ My research interest includes image processing, machine learning and numerical P
 
 # Contact
 Department of mathematics
-
-Fong Shu Chuen building
-
 Hong Kong baptist university
-
 Kowloon Tong, Hong Kong, China
 
 lingfengli@life.hkbu.edu.hk
