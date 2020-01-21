@@ -3,7 +3,7 @@
 
 #### Hong Kong baptist university, Ph.D. in mathematics, 2018-2022
 
-pricipal supervisor: [Prof. Xue-Cheng Tai](http://www.math.hkbu.edu.hk/~xuechengtai/HKBU.html), co-supervisor: [Dr. Jiang Yang]()
+pricipal supervisor: [Prof. Xue-Cheng Tai](http://www.math.hkbu.edu.hk/~xuechengtai/HKBU.html), co-supervisor: [Dr. Jiang Yang](https://math.sustech.edu.cn/scientific_research/YANG%20Jiang.html?lang=en)
 
 #### Rutgers university-new Brunswick, M.S. in mathematics, 2016-2018
 
