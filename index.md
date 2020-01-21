@@ -13,5 +13,8 @@ pricipal supervisor: [Prof. Xue-Cheng Tai](http://www.math.hkbu.edu.hk/~xuecheng
 My research interest includes image processing, machine learning and numerical PDEs. Here is my [ResearchGate](https://www.researchgate.net/profile/Lingfeng_Li5) page and [Google Scholar](https://scholar.google.com.hk/citations?user=tcP1TWEAAAAJ&hl=en) page.
 
 # Academic acativity
-1. Oral presentation in *Seventh International Conference on Scale Space and Variational Methods in Computer Vision*, Hofgeismar, Germany, June 30 - July 4, 2019. 
-2. Invited talk in *第二届北京大学计算与应用数学拔尖博士生研讨会暨第五届北京计算数学研究生论坛*, Beijing, China, Sep 2 - Sep 4, 2019.
+- Oral presentation in *Seventh International Conference on Scale Space and Variational Methods in Computer Vision*, Hofgeismar, Germany, June 30 - July 4, 2019. 
+- Invited talk in *第二届北京大学计算与应用数学拔尖博士生研讨会暨第五届北京计算数学研究生论坛*, Beijing, China, Sep 2 - Sep 4, 2019.
+
+# Contact
+lingfengli@life.hkbu.edu.hk
