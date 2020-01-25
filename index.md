@@ -1,13 +1,13 @@
 # Education
-#### Southern university of science and technology, joint study, 2020-2022
+#### Southern university of science and technology, joint study, 03/2020-02/2022
 
-#### Hong Kong baptist university, Ph.D. in mathematics, 2018-2022
+#### Hong Kong baptist university, Ph.D. in mathematics, 09/2018-09/2022
 
 pricipal supervisor: [Prof. Xue-Cheng Tai](http://www.math.hkbu.edu.hk/~xuechengtai/HKBU.html), co-supervisor: [Dr. Jiang Yang](https://math.sustech.edu.cn/scientific_research/YANG%20Jiang.html?lang=en)
 
-#### Rutgers university-new Brunswick, M.S. in mathematics, 2016-2018
+#### Rutgers university-new Brunswick, M.S. in mathematics, 09/2016-06/2018
 
-#### Sun Yat-Sen university, B.S. in mathematics, 2012-2016
+#### Sun Yat-Sen university, B.S. in mathematics, 09/2012-06/2016
 
 # Research
 My research interest includes image processing, machine learning and numerical methods. Here is my [ResearchGate](https://www.researchgate.net/profile/Lingfeng_Li5) page and [Google Scholar](https://scholar.google.com.hk/citations?user=tcP1TWEAAAAJ&hl=en) page.
