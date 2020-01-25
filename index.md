@@ -1,5 +1,5 @@
 # Education
-#### Southern university of science and technology, joint study, 03/2020-02/2022
+#### Southern university of science and technology, jointly study, 03/2020-02/2022
 
 #### Hong Kong baptist university, Ph.D. in mathematics, 09/2018-09/2022
 
