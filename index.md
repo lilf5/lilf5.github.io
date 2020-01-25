@@ -18,8 +18,8 @@ My research interest includes image processing, machine learning and numerical P
 - Invited talk in *第二届北京大学计算与应用数学拔尖博士生研讨会暨第五届北京计算数学研究生论坛*, Beijing, China, Sep 2 - Sep 4, 2019.
 
 # Contact
-Department of mathematics
-Hong Kong baptist university
+Department of mathematics,
+Hong Kong baptist university,
 Kowloon Tong, Hong Kong, China
 
 lingfengli@life.hkbu.edu.hk
