@@ -10,7 +10,7 @@ pricipal supervisor: [Prof. Xue-Cheng Tai](http://www.math.hkbu.edu.hk/~xuecheng
 #### Sun Yat-Sen university, B.S. in mathematics, 2012-2016
 
 # Research
-My research interest includes image processing, machine learning and numerical PDEs. Here is my [ResearchGate](https://www.researchgate.net/profile/Lingfeng_Li5) page and [Google Scholar](https://scholar.google.com.hk/citations?user=tcP1TWEAAAAJ&hl=en) page.
+My research interest includes image processing, machine learning and numerical methods. Here is my [ResearchGate](https://www.researchgate.net/profile/Lingfeng_Li5) page and [Google Scholar](https://scholar.google.com.hk/citations?user=tcP1TWEAAAAJ&hl=en) page.
 
 # Academic acativity
 - Oral presentation in *Seventh International Conference on Scale Space and Variational Methods in Computer Vision*, Hofgeismar, Germany, June 30 - July 4, 2019. 
