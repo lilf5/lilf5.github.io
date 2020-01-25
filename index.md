@@ -14,6 +14,7 @@ My research interest includes image processing, machine learning and numerical P
 
 # Academic acativity
 - Oral presentation in *Seventh International Conference on Scale Space and Variational Methods in Computer Vision*, Hofgeismar, Germany, June 30 - July 4, 2019. 
+- Invited talk in *图像处理与分析中的数学理论和方法研讨会*, Shenzhen, China, July 19 - July 22, 2019.
 - Invited talk in *第二届北京大学计算与应用数学拔尖博士生研讨会暨第五届北京计算数学研究生论坛*, Beijing, China, Sep 2 - Sep 4, 2019.
 
 # Contact
