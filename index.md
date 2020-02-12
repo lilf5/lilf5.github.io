@@ -5,7 +5,7 @@
 
 pricipal supervisor: [Prof. Xue-Cheng Tai](http://www.math.hkbu.edu.hk/~xuechengtai/HKBU.html), co-supervisor: [Dr. Jiang Yang](https://math.sustech.edu.cn/scientific_research/YANG%20Jiang.html?lang=en)
 
-#### Rutgers university-new Brunswick, M.S. in mathematics, 09/2016-06/2018
+#### Rutgers university-new Brunswick, M.S. in mathematical finance, 09/2016-06/2018
 
 #### Sun Yat-Sen university, B.S. in mathematics, 09/2012-06/2016
 
